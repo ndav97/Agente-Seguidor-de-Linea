@@ -1,4 +1,4 @@
-# Agente Seguidor de Línea – Tarea 3 (Maestría en Inteligencia Artificial)
+# Agente Seguidor de Línea – Tarea 3 (FIA - Maestría en Inteligencia Artificial)
 
 ## 🧠 Descripción del proyecto
 
@@ -21,21 +21,6 @@ Este proyecto implementa un **agente reflejo simple** capaz de seguir líneas en
 ├── resultado_simulacion.txt # Registro generado, indica las estadísticas y desempeño del agente
 └── README.md                # Este archivo
 ```
-
----
-
-## 🧪 Requisitos
-
-Este proyecto usa **Python 3.9+** y **no requiere ninguna librería externa**.
-
-Si deseas trabajar en un entorno virtual (recomendado):
-
-```bash
-python3 -m venv venv
-source venv/bin/activate     # En Windows: venv\Scripts\activate
-```
-
-No necesitas instalar nada adicional.
 
 ---
 
@@ -83,7 +68,10 @@ Este proyecto demuestra la implementación de un agente reflejo simple basado en
 - **Curso**: Fundamentos de Inteligencia Artificial – UNI
 - **Tarea**: Tarea 3
 - **Integrantes**:
-  - Kevin Chipana Chucare
-  - [Nombre del compañero]
+  - Guillermo Choque
+  - Kevin Chipana
+  - Nicolás Dávila
+  - Saúl Vega
+  - Oscar Huayascachi
 
 ---
