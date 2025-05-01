@@ -1,6 +1,5 @@
 import random
 
-
 class Ambiente:
     def __init__(self, filas: int, columnas: int, porcentaje_oscuro: float, porcentaje_pared_interna: float = 0):
         self.filas = filas
