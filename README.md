@@ -9,8 +9,8 @@ Este proyecto implementa un **agente reflejo simple** capaz de seguir líneas en
 ## ⚙️ Estructura del proyecto
 
 ```
-agente_seguidor_de_linea/
-│
+./
+|
 ├── main.py                  # Punto de entrada (interacción con el usuario)
 ├── agente.py                # Clase Agente: sensores, acciones, orientación
 ├── ambiente.py              # Clase Ambiente: malla, celdas, visualización textual
@@ -35,7 +35,7 @@ python3 -m venv venv
 source venv/bin/activate     # En Windows: venv\Scripts\activate
 ```
 
-No necesitas instalar nada adicional. El archivo `requirements.txt` puede estar vacío o no ser necesario.
+No necesitas instalar nada adicional.
 
 ---
 
@@ -80,8 +80,8 @@ Este proyecto demuestra la implementación de un agente reflejo simple basado en
 
 ## 👨‍🏫 Datos del trabajo
 
-- **Curso**: Maestría en Inteligencia Artificial – UNI
-- **Tarea**: Tarea 3 – Agente Reflejo Simple
+- **Curso**: Fundamentos de Inteligencia Artificial – UNI
+- **Tarea**: Tarea 3
 - **Integrantes**:
   - Kevin Chipana Chucare
   - [Nombre del compañero]
